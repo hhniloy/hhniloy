@@ -1,13 +1,8 @@
----
-layout: default
-title: Home
----
+title: Neel's Blog
+description: Tech | Personal | বাংলা ব্লগ
+url: "https://neel.bro.bd"
 
-## Welcome 👋
+markdown: kramdown
+theme: minima
 
-এটা আমার mixed blog website.
-
-### Categories:
-- Tech 💻
-- Personal 🧠
-- বাংলা ✍️
+permalink: /:categories/:title/
